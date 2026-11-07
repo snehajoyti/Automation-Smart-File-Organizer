@@ -8,7 +8,7 @@ Built with Python, Streamlit, Pandas, and Plotly.
 
 Try the app: https://automation-smart-file-organizer-63nghpxj3dy7dk2mexjzks.streamlit.app/
 
-##  🖥️ Project Preview
+## 🖥️ Project Preview
 
 ### Dashboard Overview
 ![Dashboard Overview](Screenshot%202026-11-05%20232643.png)
