@@ -14,16 +14,16 @@ Try the app: https://automation-smart-file-organizer-63nghpxj3dy7dk2mexjzks.stre
 ![Dashboard](Image.png)
 
 ### File Categories
-![File Categories](ImageD.png)
+![File Categories](Imagee.png)
 
 ### Smart Auto-Organize
-![Smart Auto-Organize](ImageG.png)
+![Smart Auto-Organize](Immage.png)
 
 ### Files by Category
-![Files by Category](Imege.png)
+![Files by Category](ImageG.png)
 
 ### File Details
-![File Details](Immage.png)
+![File Details](ImageD.png)
 
 ## Features
 
