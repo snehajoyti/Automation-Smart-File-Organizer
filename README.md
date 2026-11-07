@@ -11,19 +11,19 @@ Try the app: https://automation-smart-file-organizer-63nghpxj3dy7dk2mexjzks.stre
 ## 🖥️ Project Preview
 
 ### Dashboard Overview
-![Dashboard Overview](Screenshot%202026-11-05%20232643.png)
+![Dashboard](./Screenshot%202026-11-05%20232643.png)
 
 ### File Categories
-![File Categories](Screenshot%202026-11-05%20232707.png)
+![File Categories](./Screenshot%202026-11-05%20232707.png)
 
 ### Smart Auto-Organize
-![Smart Auto-Organize](Screenshot%202026-11-05%20232726.png)
+![Smart Auto-Organize](./Screenshot%202026-11-05%20232726.png)
 
 ### Files by Category
-![Files by Category](Screenshot%202026-11-05%20232754.png)
+![Files by Category](./Screenshot%202026-11-05%20232754.png)
 
 ### File Details
-![File Details](Screenshot%202026-11-05%20232819.png)
+![File Details](./Screenshot%202026-11-05%20232819.png)
 
 ## Features
 
