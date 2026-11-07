@@ -8,22 +8,22 @@ Built with Python, Streamlit, Pandas, and Plotly.
 
 Try the app: https://automation-smart-file-organizer-63nghpxj3dy7dk2mexjzks.streamlit.app/
 
-## 📸 Screenshots
+##  🖥️ Project Preview
 
 ### Dashboard Overview
-![Dashboard](Images/Dashboard.png)
+![Dashboard Overview](Screenshot%202026-11-05%20232643.png)
 
 ### File Categories
-![File Categories](Images/File-Categories.png)
+![File Categories](Screenshot%202026-11-05%20232707.png)
 
 ### Smart Auto-Organize
-![Smart Auto-Organize](Images/Auto-Organize.png)
+![Smart Auto-Organize](Screenshot%202026-11-05%20232726.png)
 
 ### Files by Category
-![Files by Category](Images/Charts.png)
+![Files by Category](Screenshot%202026-11-05%20232754.png)
 
 ### File Details
-![File Details](Images/File-Details.png)
+![File Details](Screenshot%202026-11-05%20232819.png)
 
 ## Features
 
